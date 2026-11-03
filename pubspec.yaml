@@ -33,12 +33,15 @@ dependencies:
 
   #ui
   cupertino_icons: ^1.0.8
-  arcgis_map_sdk: ^0.8.0
+  arcgis_maps: ^300.1.0+5042
+  device_info_plus: ^13.2.0
+  flutter_web_auth_2: ^5.0.1
+  dio_cache_interceptor: ^4.0.7
+  http_cache_core: ^1.1.4
+  uuid: ^4.5.0
 
   #data
-  get: ^4.6.6
   sprintf: ^7.0.0
-  uuid: ^3.0.6
   optional: ^6.1.0+1
   rxdart: ^0.28.0
   rxdart_ext: ^0.3.0
